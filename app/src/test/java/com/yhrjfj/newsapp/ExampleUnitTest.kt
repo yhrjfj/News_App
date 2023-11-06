@@ -1,4 +1,4 @@
-package com.loc.newsapp
+package com.yhrjfj.newsapp
 
 import org.junit.Test
 
